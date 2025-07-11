@@ -1,0 +1,6 @@
+@AutoMapperwithDependencyInjection_HostAddress = http://localhost:5230
+
+GET {{AutoMapperwithDependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
